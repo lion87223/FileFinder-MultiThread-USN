@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindFileMultiThread", "FindFileMultiThread\FindFileMultiThread.vcxproj", "{34BFC104-7FBF-4A47-8203-383AF8CAAC19}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "USN-Journal", "USN-Journal\USN-Journal.vcxproj", "{AFB71982-48B8-4D67-AA36-8E02C9A9E0EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34BFC104-7FBF-4A47-8203-383AF8CAAC19}.Debug|Win32.ActiveCfg = Debug|Win32
+		{34BFC104-7FBF-4A47-8203-383AF8CAAC19}.Debug|Win32.Build.0 = Debug|Win32
+		{34BFC104-7FBF-4A47-8203-383AF8CAAC19}.Release|Win32.ActiveCfg = Release|Win32
+		{34BFC104-7FBF-4A47-8203-383AF8CAAC19}.Release|Win32.Build.0 = Release|Win32
+		{AFB71982-48B8-4D67-AA36-8E02C9A9E0EA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AFB71982-48B8-4D67-AA36-8E02C9A9E0EA}.Debug|Win32.Build.0 = Debug|Win32
+		{AFB71982-48B8-4D67-AA36-8E02C9A9E0EA}.Release|Win32.ActiveCfg = Release|Win32
+		{AFB71982-48B8-4D67-AA36-8E02C9A9E0EA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

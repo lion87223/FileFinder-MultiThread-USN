@@ -1,0 +1,27 @@
+﻿生成启动时间为 2022/6/1 10:33:38。
+     1>项目“F:\自学建立\后小白期综合测试\FindFile-MultiThread\FindFileMultiThread-USN\FindFileMultiThread\FindFileMultiThread.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\FindFileMultiThread.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\FindFileMultiThread.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt FindFileMultiThread.cpp FindFileMultiThreadDlg.cpp InfoApp.cpp InfoDlg.cpp
+         FindFileMultiThread.cpp
+         FindFileMultiThreadDlg.cpp
+         InfoApp.cpp
+         InfoDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /l"0x0804" /IRelease\ /nologo /fo"Release\FindFileMultiThread.res" FindFileMultiThread.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\自学建立\后小白期综合测试\FindFile-MultiThread\FindFileMultiThread-USN\Release\FindFileMultiThread.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\自学建立\后小白期综合测试\FindFile-MultiThread\FindFileMultiThread-USN\Release\FindFileMultiThread.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\自学建立\后小白期综合测试\FindFile-MultiThread\FindFileMultiThread-USN\Release\FindFileMultiThread.lib" /MACHINE:X86 /SAFESEH Release\FindFileMultiThread.res
+         Release\FindFileMultiThread.obj
+         Release\FindFileMultiThreadDlg.obj
+         Release\InfoApp.obj
+         Release\InfoDlg.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         FindFileMultiThread.vcxproj -> F:\自学建立\后小白期综合测试\FindFile-MultiThread\FindFileMultiThread-USN\Release\FindFileMultiThread.exe
+     1>已完成生成项目“F:\自学建立\后小白期综合测试\FindFile-MultiThread\FindFileMultiThread-USN\FindFileMultiThread\FindFileMultiThread.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.05

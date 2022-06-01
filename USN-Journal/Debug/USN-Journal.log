@@ -1,0 +1,24 @@
+﻿生成启动时间为 2022/6/1 8:37:29。
+     1>项目“F:\自学建立\后小白期综合测试\FindFile-MultiThread\FindFileMultiThread-USN\USN-Journal\USN-Journal.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D USNJOURNAL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\USN-Journal.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D USNJOURNAL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CDriveIndex.cpp
+         CDriveIndex.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D USNJOURNAL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D USNJOURNAL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\USN-Journal.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "USN-Journal.cpp"
+         USN-Journal.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\自学建立\后小白期综合测试\FindFile-MultiThread\FindFileMultiThread-USN\Debug\USN-Journal.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:".\USN.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\自学建立\后小白期综合测试\FindFile-MultiThread\FindFileMultiThread-USN\Debug\USN-Journal.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\自学建立\后小白期综合测试\FindFile-MultiThread\FindFileMultiThread-USN\Debug\USN-Journal.lib" /MACHINE:X86 /DLL Debug\CDriveIndex.obj
+         Debug\dllmain.obj
+         Debug\stdafx.obj
+         "Debug\USN-Journal.obj"
+     1>.\USN.def(2): warning LNK4017: DESCRIPTION 语句不支持目标平台；已忽略
+            正在创建库 F:\自学建立\后小白期综合测试\FindFile-MultiThread\FindFileMultiThread-USN\Debug\USN-Journal.lib 和对象 F:\自学建立\后小白期综合测试\FindFile-MultiThread\FindFileMultiThread-USN\Debug\USN-Journal.exp
+         USN-Journal.vcxproj -> F:\自学建立\后小白期综合测试\FindFile-MultiThread\FindFileMultiThread-USN\Debug\USN-Journal.dll
+     1>已完成生成项目“F:\自学建立\后小白期综合测试\FindFile-MultiThread\FindFileMultiThread-USN\USN-Journal\USN-Journal.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.08
